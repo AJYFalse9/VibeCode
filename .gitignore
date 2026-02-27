@@ -1,0 +1,30 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Next.js
+.next/
+out/
+build/
+
+# Env config
+.env
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
